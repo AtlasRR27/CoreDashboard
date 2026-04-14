@@ -39,3 +39,7 @@ Distributed via Itch.io for secure access and premium positioning.
 📜 Changelog
 - v1.7W – Initial release. Core metrics overlay, premium foundation.  
 - v1.7W.1 – Visual consistency improvements, opacity fix, opacity seekbars temporally removed, permission polish, proprietary license declaration. 
+
+You can download this app in Github or Itch.io with this link:
+
+https://atlasmr.itch.io/coredashboard
